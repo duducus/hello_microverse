@@ -1,5 +1,5 @@
 
-<h3><b>Microverse README Template</b></h3>
+<h3><b>Microverse README</b></h3>
 
 <!-- TABLE OF CONTENTS -->
 
